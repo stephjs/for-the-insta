@@ -1,13 +1,11 @@
-# Learn Redux
+# Beachstagram
+An Instagram-like React + Redux  implementation.
+![beachstagram](https://user-images.githubusercontent.com/18673328/33900325-e25352d2-df22-11e7-80f4-0e0da274b43f.jpg)
 
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
-
-## Running
-
-First `npm install` to grab all the necessary dependencies. 
-
-Then run `npm start` and open <localhost:7770> in your browser.
-
-## Production Build
-
-Run `npm build` to create a distro folder and a bundle.js file.
+```
+> git clone https://github.com/stephorpilla/for-the-insta.git
+> cd for-the-insta
+> npm install
+> npm start
+> Navigate to localhost:7770
+```
