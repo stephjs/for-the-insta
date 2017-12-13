@@ -1,5 +1,7 @@
 # Beachstagram
-An Instagram-like React + Redux  implementation.
+An Instagram-like React + Redux implementation: https://beachstagram.herokuapp.com/
+
+
 ![beachstagram](https://user-images.githubusercontent.com/18673328/33900325-e25352d2-df22-11e7-80f4-0e0da274b43f.jpg)
 
 ```
